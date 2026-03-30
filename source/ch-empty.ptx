@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="ch-empty" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Squeeze Theorem</title>
+  <p>Try adding your own content here! This chapter doesn't have sections.</p>
+
+  <p>The Squeeze Theorem is perhaps one of the most useful and surprising tools 
+    from this chapter. It shows up at the intersection of several challenging ideas—working 
+    with inequalities, handling tricky trigonometric functions, and reasoning about limits. 
+    The Squeeze Theorem will appear again in Calculus II when we study series, integrals, 
+    and advanced limits. Having a solid grasp now will pay off later.
+  </p>
+<p>  
+Because this theorem combines many skills, today’s activity is designed to give you extra time to explore it, practice building inequalities, and use graphing tools like Desmos to see how functions get ``squeezed'' together.
+</p> 
+
+<theorem xml:id="thm-squeeze">
+  <statement>
+    <p>
+      Suppose that for all <m>x</m> in some open interval containing 
+      <m>a</m> (except possibly at <m>a</m> itself) we have
+
+      <m> 
+g(x) \leq f(x) \leq h(x).
+      </m>
+If
+
+<m> 
+\displaystyle\lim_{x \to a} g(x) = \lim_{x \to a} h(x) = L,
+</m> 
+then
+
+<m> 
+\displaystyle\lim_{x \to a} f(x) = L.
+</m> 
+    </p>
+  </statement>
+  
+</theorem>
+
+
+
+</chapter>
