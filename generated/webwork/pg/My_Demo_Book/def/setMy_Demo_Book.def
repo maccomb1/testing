@@ -1,0 +1,11 @@
+openDate          = 03/30/2026 at 12:00am
+dueDate           = 09/30/2026 at 10:00pm
+answerDate        = 09/30/2026 at 10:00pm
+paperHeaderFile   = My_Demo_Book/header/My_Demo_Book.pg
+screenHeaderFile  = My_Demo_Book/header/My_Demo_Book.pg
+description       = My Demo Book
+problemListV2
+problem_start
+source_file = My_Demo_Book/4_4_1.pg
+problem_id = 1
+problem_end
